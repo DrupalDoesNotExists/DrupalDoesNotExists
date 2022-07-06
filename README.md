@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <div id="badges">
-    <img src="https://img.shields.io/badge/Discord-738ADB?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    <img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
+    <a href="https://discordapp.com/users/witwar#7653"><img src="https://img.shields.io/badge/Discord-738ADB?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/></a>
+    <a href="https://youtube.com/"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
+    <a href="https://reddit.com/><img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/></a>
   </div>
   <h1>
     Hi there
@@ -23,9 +23,10 @@ I'm Russian software engineer, Dmitry Lomov. Windows, .NET & C# hater.
 - Bash       == Linux scripting
 - Assembly   == OSDev, not using actively
 - Pascal     == When will this be forgotten?
+- Dart       == Dart
 
 ## Currently working on :clock4:
-- The Darkness == Challenging horror-walker based on sounds nature and physics.
+- The Darkness == Challenging 2D horror-walker based on sounds nature and physics.
 - Wolfram      == Lightweight fully-async actor-based minecraft 1.8.9 PvP server for heavy
 
 ## Done and archived opensource :heavy_check_mark:
