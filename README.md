@@ -1,4 +1,5 @@
 <div id="header" align="center">
+  <img src="https://octodex.github.com/images/chellocat.jpg" alt="Octochell"/>
   <div id="badges">
     <a href="https://discordapp.com/users/witwar#7653"><img src="https://img.shields.io/badge/Discord-738ADB?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/></a>
     <a href="https://youtube.com/"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
