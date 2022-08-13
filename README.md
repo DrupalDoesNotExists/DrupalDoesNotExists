@@ -14,20 +14,13 @@ I'm Russian software engineer, Dmitry Lomov. Windows, .NET & C# hater.
 
 ## Languages and tools :hammer:
 - Java       == Bukkit (and forks), Minecraft-related software
-- Kotlin     == Android, Minecraft-related software
 - Golang     == Web development
 - JavaScript == Frontend development
 - Python     == Scripting, web development
 - C/C++      == Linux-related development (only C :D only old school), graphics
-- Rust       == Not using actively
-- Bash       == Linux scripting
-- Assembly   == OSDev, not using actively
-- Pascal     == When will this be forgotten?
-- Dart       == Dart
 
 ## Currently working on :clock4:
-- The Darkness == Challenging 2D horror-walker based on sounds nature and physics.
-- Wolfram      == Lightweight fully-async actor-based minecraft 1.8.9 PvP server for heavy
+Nothing to do
 
 ## Done and archived opensource :heavy_check_mark:
 - JTag == NBT-Tag modern adaption of archived JNBT with diamond operator
