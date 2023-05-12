@@ -10,14 +10,14 @@
   </h1>
 </div>
 
-I'm Russian software engineer, Dmitry Lomov. Windows, .NET & C# hater.
+I'm a Russian software engineer, Dmitry Lomov.
 
 ## Languages and tools :hammer:
 - Java       == Bukkit (and forks), Minecraft-related software
 - Golang     == Web development
 - JavaScript == Frontend development
 - Python     == Scripting, web development
-- C/C++      == Linux-related development (only C :D only old school), graphics
+- C/C++      == Linux-related development, graphics
 
 ## Currently working on :clock4:
 Nothing to do
@@ -30,6 +30,7 @@ Nothing to do
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=DrupalDoesNotExists&theme=dark)
 ![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DrupalDoesNotExists&theme=dark)
+[![LeetCode user DrupalDoesNotExists](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FDrupalDoesNotExists&logo=leetcode&logoColor=yellow)](https://leetcode.com/DrupalDoesNotExists/)
 
 <!--
 **DrupalDoesNotExists/DrupalDoesNotExists** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
